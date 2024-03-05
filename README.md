@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Vue.js, PHP, MySQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, Vue.js, PHP, MySQL // Adobe Illustrator, Adobe Photoshop, Adobe After Effects, Adobe InDesign, Blender**
 
 - 📫 How to reach me **giuliacarangelo2000@gmail.com**
 
